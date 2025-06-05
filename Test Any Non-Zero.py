@@ -10,7 +10,6 @@ Original file is located at
 import numpy as np
 
 a = np.array([0,1,2,3])
-
 print(" original array:")
 print(a)
 
