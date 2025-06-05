@@ -11,7 +11,7 @@ import numpy as np
 
 a = np.array([0,1,2,3])
 
-print("Orengal array:")
+print(" original array:")
 print(a)
 
 print("Test whether any of the elements of a given array is non-zero:")
